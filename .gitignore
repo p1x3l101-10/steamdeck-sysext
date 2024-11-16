@@ -1,0 +1,15 @@
+!/.gitignore
+/.vscode
+/mkosi.cache/*
+!/mkosi.cache/.gitkeep
+/mkosi.crt
+/mkosi.key
+/mkosi.output/*
+!/mkosi.output/.gitkeep
+/mkosi.rootpw
+/mkosi.passphrase
+/.mkosi-private
+/mkosi.machine-id
+/local.tree
+/mkosi.local
+/mkosi.passphrase
