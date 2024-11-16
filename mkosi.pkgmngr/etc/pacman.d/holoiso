@@ -1,0 +1,4 @@
+Server = http://dlcdn2.thevakhovske.pw/$repo/os/$arch
+Server = http://dl.thevakhovske.pw/$repo/os/$arch
+Server = http://holoiso.itsvixano.me/$repo/os/$arch
+SigLevel = Never

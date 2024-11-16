@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=sudo /etc/holoinstall/post_install/chroot_holoiso.sh
+GenericName[en_US]=
+GenericName=
+Icon=run-install
+MimeType=
+Name[en_US]=Chroot to valid HoloISO Installation
+Name=Opens terminal window with mounted HoloISO partitions
+Path=
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
